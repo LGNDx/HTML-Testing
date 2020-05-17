@@ -2,7 +2,7 @@ body{
 	background-color: lightgoldenrodyellow;
 }
 
-h1{
+	h1{
 	font-size: 30px;
 	color: blue;
 	}
@@ -27,4 +27,7 @@ h1{
 
 	h1 span{
 		color: indianred;
+	}
+	span.purple{
+		color: purple;
 	}
